@@ -1,0 +1,23 @@
+#all_content {
+    background-color: antiquewhite; 
+    margin-left:auto; margin-right:auto;
+    font-family: sans-serif;
+    position: relative;
+}
+#text {
+    float:right
+}
+
+#table {
+    vertical-align: text-top
+}
+#left_content {
+    float: left
+}
+.img5 {
+    vertical-align: text-top;
+        
+}
+
+        
+}
